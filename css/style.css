@@ -590,7 +590,7 @@ a {
    border: none;
 }
 .clouse-modal:focus{
-  color: #404bbf;
+  background-color: #404bbf;
   border: none;
 }
 .icon-clouse-modal {
@@ -613,6 +613,9 @@ a {
   margin-bottom: 8px;
 }
 .box-lable{
+ margin-bottom: 8px;
+}
+.lable{
   display: block;
   font-weight: 400;
   font-size: 12px;
