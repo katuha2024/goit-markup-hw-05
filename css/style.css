@@ -570,7 +570,7 @@ a {
   transform: translate(-50%, -50%);
   padding: 72px 24px 24px 24px;
 }
-.clouse-modal {
+.close-modal {
   position: absolute;
   top: 24px;
   right: 24px;
@@ -588,18 +588,18 @@ a {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
   border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.clouse-modal:hover{
+.close-modal:hover{
    background-color: #404bbf;
    border: none;
 }
-.clouse-modal:focus{
+.close-modal:focus{
   background-color: #404bbf;
   border: none;
 }
-.icon-clouse-modal {
+.icon-close-modal {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.clouse-modal:hover .icon-clouse-modal{
+.close-modal:hover .icon-clouse-modal{
   fill:#ffffff;
 }
 .clouse-modal:focus .icon-clouse-modal{
