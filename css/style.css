@@ -615,10 +615,10 @@ a {
 .form-modal{
   margin-bottom: 8px;
 }
-.box-lable{
+.box-label{
  margin-bottom: 8px;
 }
-.lable{
+.label{
   display: block;
   font-weight: 400;
   font-size: 12px;
@@ -650,7 +650,7 @@ a {
   transform: translateY(-50%);
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 }
-.box-input:focus-within .icon-name{
+.box-input:focus .icon-name{
   fill: #495ae5;
 }
 .box-comment{
